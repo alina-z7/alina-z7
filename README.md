@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, I'm [Alina Zacaria]!
+
+## Latest Projects
+
+- [Airline Booking System](link)
+- [Bank Management System](link)
+- [Search Engine](link)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alina-z7=your_github&show_icons=true)
+
+## Get in Touch
+
+- [LinkedIn](https://linkedin.com/in/alinazac)
+- [Email](mailto:alinazac9@gmail.com)
+
 
 <!--
 **alina-z7/alina-z7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
