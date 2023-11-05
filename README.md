@@ -1,4 +1,4 @@
-# Hi, I'm [Alina Zacaria]!
+# Hi, I'm Alina Zacaria!
 
 ## Latest Projects
 
@@ -8,7 +8,7 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alina-z7=your_github&show_icons=true)
+Coming UP
 
 ## Get in Touch
 
