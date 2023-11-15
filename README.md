@@ -2,13 +2,13 @@
 
 ## Latest Projects
 
-- [Airline Booking System](link)
-- [Bank Management System](link)
-- [Search Engine](link)
+- [Airline Booking System]([link](https://github.com/alina-z7/Airline-Booking-System))
+- [Bank Management System] Currently Working
+- [Search Engine] Currently Working
 
-## GitHub Stats
-
-Coming UP
+## Recent Classwork
+- [Data Structures]([link](https://github.com/alina-z7/Data-Structures))
+- [Advanced Data Structures]([link](https://github.com/alina-z7/Advanced-Data-Structures))
 
 ## Get in Touch
 
