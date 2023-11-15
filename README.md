@@ -7,7 +7,7 @@
 - [Search Engine] Currently Working
 
 ## Recent Classwork
-- [Data Structures]([link](https://github.com/alina-z7/Data-Structures))
+- [Data Structures]((https://github.com/alina-z7/Data-Structures))
 - [Advanced Data Structures]([link](https://github.com/alina-z7/Advanced-Data-Structures))
 
 ## Get in Touch
