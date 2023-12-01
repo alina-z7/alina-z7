@@ -8,6 +8,7 @@ Welcome! I'm an innovative problem-solver with a penchant for crafting elegant c
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
 - [Airline Booking System](https://github.com/alina-z7/Airline-Booking-System)
+- [Amazon Static Clone](https://github.com/alina-z7/Amazon-Static-Clone)
 - [Bank Management System] Currently Working
 - [Search Engine] Currently Working
 
