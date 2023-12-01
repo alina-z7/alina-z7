@@ -5,6 +5,8 @@ Welcome! I'm an innovative problem-solver with a penchant for crafting elegant c
 
 ## Latest Projects
 
+- [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
+- [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
 - [Airline Booking System](https://github.com/alina-z7/Airline-Booking-System)
 - [Bank Management System] Currently Working
 - [Search Engine] Currently Working
@@ -17,19 +19,3 @@ Welcome! I'm an innovative problem-solver with a penchant for crafting elegant c
 
 - [LinkedIn](https://linkedin.com/in/alinazac)
 - [Email](mailto:alinazac9@gmail.com)
-
-
-<!--
-**alina-z7/alina-z7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
