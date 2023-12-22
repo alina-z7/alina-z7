@@ -18,6 +18,7 @@ Let’s change the future of technology together.
 ## Latest Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
+- [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
 - [Bank Management System] Currently Working
 - [Search Engine] Currently Working
 
