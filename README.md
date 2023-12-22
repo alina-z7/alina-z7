@@ -3,11 +3,9 @@
 ## About Me
 Welcome!
 
-I’m a problem-solving genius who loves to write elegant code and crack complex algorithms.
+I’m a problem-solving explorer who loves to write elegant code and crack complex algorithms.
 
 My journey into the software engineering world has been a combination of creativity and accuracy, as evidenced by my diverse portfolio, which reads like a jumble of tech skills. From designing scalable solutions that maximize efficiency to engineering smooth user experiences that exceed expectations, I’ve developed my skills through an unwavering focus on excellence.
-
-But beyond the code, I’m an explorer. I’m always looking for new ways to combine cutting-edge tech with human-centered designs.
 
 My love of collaboration and my passion for innovation have been the driving forces behind my ambition.
 
@@ -15,21 +13,21 @@ Now embarking on this exciting journey, I look forward to sharing my unique pers
 
 Let’s change the future of technology together.
 
-## Latest Projects
+## Academic Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
-- [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
-- [Bank Management System] Currently Working
-- [Search Engine] Currently Working
-
-## Recent Projects
 - [Airline Booking System](https://github.com/alina-z7/Airline-Booking-System)
-- [Amazon Static Clone](https://github.com/alina-z7/Amazon-Static-Clone)
+- [Bank Management System] Currently Working
 
+## Web Development Projects
+- [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
+- [Amazon Static Clone](https://github.com/alina-z7/Amazon-Static-Clone)
 
 ## Recent Classwork
 - [Data Structures](https://github.com/alina-z7/Data-Structures)
 - [Advanced Data Structures](https://github.com/alina-z7/Advanced-Data-Structures)
+- [Computer Systems Spring 2024]()
+- [Formal Methods in Software Engineering Spring 2024]()
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/alinazac)
