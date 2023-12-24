@@ -15,7 +15,7 @@ Let’s change the future of technology together.
 
 ## Web Development Projects
 - [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
-- [Amazon Static Clone](https://github.com/alina-z7/Amazon-Static-Clone)
+- [Amazon Clone](https://github.com/alina-z7/Amazon-Static-Clone)
   
 ## Academic Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
