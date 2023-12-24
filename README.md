@@ -26,6 +26,7 @@ Let’s change the future of technology together.
 ## Recent Classwork
 - [Data Structures](https://github.com/alina-z7/Data-Structures)
 - [Advanced Data Structures](https://github.com/alina-z7/Advanced-Data-Structures)
+- [Pyversity](https://github.com/alina-z7/Pyversity)
 - [Computer Systems Spring 2024]
 - [Formal Methods in Software Engineering Spring 2024]
 
