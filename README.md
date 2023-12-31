@@ -15,20 +15,20 @@ Let’s change the future of technology together.
 
 ## Web Development Projects
 - [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
-- [Amazon Clone](https://github.com/alina-z7/Amazon-Static-Clone)
+- [Amazon-Clone](https://github.com/alina-z7/Amazon-Static-Clone)
   
 ## Academic Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
-- [SweetEscape Airlines Booking System](https://github.com/alina-z7/Airline-Booking-System)
-- [Bank Management System] Currently Working
+- [SweetEscape-Airlines-Booking-System](https://github.com/alina-z7/Airline-Booking-System)
+- [Bank-Management-System] Currently Working
 
 ## Recent Classwork
-- [Advanced Data Structures](https://github.com/alina-z7/Advanced-Data-Structures)
-- [Data Structures](https://github.com/alina-z7/Data-Structures)
+- [Advanced-Data-Structures](https://github.com/alina-z7/Advanced-Data-Structures)
+- [Data-Structures](https://github.com/alina-z7/Data-Structures)
 - [Pyversity](https://github.com/alina-z7/Pyversity)
-- [Computer Systems Spring 2024]
-- [Formal Methods in Software Engineering Spring 2024]
+- [Computer-Systems-Spring-2024]
+- [Formal-Methods-In-Software-Engineering-Spring-2024]
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/alinazac)
