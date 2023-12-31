@@ -20,7 +20,7 @@ Let’s change the future of technology together.
 ## Academic Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
-- [Airline Booking System](https://github.com/alina-z7/Airline-Booking-System)
+- [SweetEscape Airlines Booking System](https://github.com/alina-z7/Airline-Booking-System)
 - [Bank Management System] Currently Working
 
 ## Recent Classwork
