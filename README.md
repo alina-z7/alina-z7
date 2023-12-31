@@ -1,7 +1,6 @@
 # Hi, I'm Alina Zacaria!
 
 ## About Me
-Welcome!
 
 I’m a problem-solving explorer who loves to write elegant code and crack complex algorithms.
 
