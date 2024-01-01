@@ -15,12 +15,12 @@ Let’s change the future of technology together.
 ## Web Development Projects
 - [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
 - [Amazon-Clone](https://github.com/alina-z7/Amazon-Static-Clone)
+- [AZ-Bank-Management-System]
   
 ## Academic Projects
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
 - [SweetEscape-Airlines-Booking-System](https://github.com/alina-z7/Airline-Booking-System)
-- [Bank-Management-System] Currently Working
 
 ## Recent Classwork
 - [Advanced-Data-Structures](https://github.com/alina-z7/Advanced-Data-Structures)
