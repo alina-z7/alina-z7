@@ -28,6 +28,7 @@ Let’s change the future of technology together.
 - [Pyversity](https://github.com/alina-z7/Pyversity)
 - [Computer-Systems-Spring-2024]
 - [Formal-Methods-In-Software-Engineering-Spring-2024]
+- [Advanced-Algorithms-Spring-2024]
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/alinazac)
