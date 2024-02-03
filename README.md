@@ -26,10 +26,10 @@ Let’s change the future of technology together.
 - [Advanced-Data-Structures](https://github.com/alina-z7/Advanced-Data-Structures)
 - [Data-Structures](https://github.com/alina-z7/Data-Structures)
 - [Pyversity-Python3-Computing](https://github.com/alina-z7/Pyversity-Python3-Computing)
-- [Computer-Systems-Spring-2024]
-- [Formal-Methods-in-Software-Engineering-Spring-2024]
-- [Advanced-Algorithms-Spring-2024]
-- [Mathematical-Foundations-of-Cryptography-Spring-2024]
+- [Computer-Systems-Spring-2024](https://github.com/alina-z7/Computer-Systems)
+- [Formal-Methods-in-Software-Engineering-Spring-2024](https://github.com/alina-z7/Formal-Methods-In-SWE)
+- [Advanced-Algorithms-Spring-2024](https://github.com/alina-z7/Design-And-Complexity-Of-Algorithms)
+- [Mathematical-Foundations-of-Cryptography-Spring-2024](https://github.com/alina-z7/Mathematical-Foundations-of-Cryptography)
 - [Object-Oriented-Design-Spring-2024](https://github.com/alina-z7/Object-Oriented-Design)
 
 ## Get in Touch
