@@ -29,7 +29,7 @@ Let’s change the future of technology together.
 - [Computer-Systems-Spring-2024](https://github.com/alina-z7/Computer-Systems)
 - [Formal-Methods-in-Software-Engineering-Spring-2024](https://github.com/alina-z7/Formal-Methods-In-SWE)
 - [Advanced-Algorithms-Spring-2024](https://github.com/alina-z7/Design-And-Complexity-Of-Algorithms)
-- [Mathematical-Foundations-of-Cryptography-Spring-2024](https://github.com/alina-z7/Mathematical-Foundations-of-Cryptography)
+- [Mathematical-Foundations-of-Cryptography-Spring-2024](https://github.com/alina-z7/Cryptography)
 - [Object-Oriented-Design-Spring-2024](https://github.com/alina-z7/Object-Oriented-Design)
 
 ## Get in Touch
