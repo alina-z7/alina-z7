@@ -15,9 +15,10 @@ Let’s change the future of technology together.
 ## Web Development Projects
 - [Tic-Tac-Toe](https://github.com/alina-z7/Tic-Tac-Toe)
 - [Amazon-Clone](https://github.com/alina-z7/Amazon-Static-Clone)
-- [AZ-Bank-Management-System](https://github.com/alina-z7/AZ-Bank-Management-System) Currently working
+- [AZ-Bank-Management-System](https://github.com/alina-z7/AZ-Bank-Management-System)
   
 ## Academic Projects
+- [Cityscapes-Preprocessing](https://github.com/alina-z7/Cityscapes-Preprocessing)
 - [MapReduce-Inverted-Index-Program](https://github.com/alina-z7/MapReduce-Inverted-Index-Program)
 - [MapReduce-Word-Count-Program](https://github.com/alina-z7/MapReduce-Word-Count-Program)
 - [SweetEscape-Airlines-Booking-System](https://github.com/alina-z7/Airline-Booking-System)
@@ -26,11 +27,11 @@ Let’s change the future of technology together.
 - [Advanced-Data-Structures](https://github.com/alina-z7/Advanced-Data-Structures)
 - [Data-Structures](https://github.com/alina-z7/Data-Structures)
 - [Pyversity-Python3-Computing](https://github.com/alina-z7/Pyversity-Python3-Computing)
-- [Computer-Systems-Spring-2024](https://github.com/alina-z7/Computer-Systems)
-- [Formal-Methods-in-Software-Engineering-Spring-2024](https://github.com/alina-z7/Formal-Methods-In-SWE)
-- [Advanced-Algorithms-Spring-2024](https://github.com/alina-z7/Design-And-Complexity-Of-Algorithms)
-- [Mathematical-Foundations-of-Cryptography-Spring-2024](https://github.com/alina-z7/Cryptography)
-- [Object-Oriented-Design-Spring-2024](https://github.com/alina-z7/Object-Oriented-Design)
+- [Computer-Systems](https://github.com/alina-z7/Computer-Systems)
+- [Formal-Methods-in-Software-Engineering](https://github.com/alina-z7/Formal-Methods-In-SWE)
+- [Design-&-Complexity-of-Algorithms](https://github.com/alina-z7/Design-And-Complexity-Of-Algorithms)
+- [Mathematical-Foundations-of-Cryptography](https://github.com/alina-z7/Cryptography)
+- [Object-Oriented-Design](https://github.com/alina-z7/Object-Oriented-Design)
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/alinazac)
