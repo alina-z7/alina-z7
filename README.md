@@ -34,7 +34,7 @@ ApnaCollege Web Dev Course:
 - [Pyversity-Python3-Computing](https://github.com/alina-z7/Pyversity-Python3-Computing)
 - [Programming Languages](https://github.com/alina-z7/Programming-Languages)
   
-## Big Data | Algorithms Projects 📊
+## Big Data | Algorithmic Projects 📊
 - [Design-&-Complexity-of-Algorithms](https://github.com/alina-z7/Design-And-Complexity-Of-Algorithms)
 - [Advanced-Data-Structures](https://github.com/alina-z7/Advanced-Data-Structures)
 - [Cityscapes-Preprocessing](https://github.com/alina-z7/Cityscapes-Preprocessing)
